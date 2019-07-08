@@ -3,7 +3,7 @@ A small journey through the basics of Assembly
 
 Focuses on the working of an ARM 32 bit in an Raspberry Pi 3 B+ model.
 
-ARM 32 bit architecture, which is mainly used by integrators because of its flexibility
+ARM 32 bit architecture, which is mainly used by integrators because of its flexibility.
 
 ## Assembly Language
 
